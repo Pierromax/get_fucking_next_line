@@ -6,7 +6,7 @@
 /*   By: ple-guya <ple-guya@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/11/02 17:03:22 by ple-guya          #+#    #+#             */
-/*   Updated: 2023/11/19 04:43:27 by ple-guya         ###   ########.fr       */
+/*   Updated: 2023/11/26 23:54:14 by ple-guya         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -27,6 +27,7 @@ char	*ft_strchr(const char *s, int c)
 		return ((char *)str);
 	return (0);
 }
+
 /*
 #include <string.h>
 #include <stdio.h>

@@ -6,7 +6,7 @@
 /*   By: ple-guya <ple-guya@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/11/03 22:14:21 by ple-guya          #+#    #+#             */
-/*   Updated: 2023/11/19 08:08:31 by ple-guya         ###   ########.fr       */
+/*   Updated: 2023/11/26 23:53:16 by ple-guya         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -39,4 +39,4 @@ int	main()
 	size_t b = 0;
 	a = ft_strlcpy(d, s , b); 
 	printf("destination = %s\nsource = %s\nde taille = %zu\n", d, s, a);
-} */
+}*/
